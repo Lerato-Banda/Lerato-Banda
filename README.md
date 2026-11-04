@@ -2,11 +2,11 @@
 **Cloud Security Engineer | Python | Cybersecurity| Cloud Infrastructure**
 Currentyly Developing my Python Skills and working towards undersatnding how secure, reliable cloud infrastructure is designed
 ## Current Skills
-Python automation
-Linux and command-line fundamentals
-Networking
-Cloud Infrastructure
-Cybersecurity Fundamentals
+- Python automation
+- Linux and command-line fundamentals
+- Networking
+- Cloud Infrastructure
+- Cybersecurity Fundamentals
 
 ## Career Intersts
 - Cloud Security Engineering
