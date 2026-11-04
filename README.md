@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lerato Banda
+**Cloud Security Engineer | Python | Cybersecurity| Cloud Infrastructure**
+Currentyly Developing my Python Skills and working towards undersatnding how secure, reliable cloud infrastructure is designed
+## Current Skills
+Python automation
+Linux and command-line fundamentals
+Networking
+Cloud Infrastructure
+Cybersecurity Fundamentals
 
-<!--
-**Lerato-Banda/Lerato-Banda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career Intersts
+- Cloud Security Engineering
+- DevOps
+- Security Automation
+- Cloud Infrastructure
+  
+## Projects
+I'm building practical projects to demonstrate my development and security skills.
+More projects will be added as I complete them.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect 
+- Github:https://github.com/Lerato-Banda
